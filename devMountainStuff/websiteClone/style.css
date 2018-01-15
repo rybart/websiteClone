@@ -1,0 +1,250 @@
+a {
+    text-decoration: none;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-family: Montserrat, sans-serif;
+}
+
+li {
+    list-style-type: none;
+    color: gray;
+    display: inline;
+    padding left: ;
+    padding-left: 31px;
+    font-family: montserrat;
+}
+
+.col-md-12 {
+    width: 70%;
+    margin: auto;
+    padding-top: 1%;
+}
+
+img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    padding-bottom: 13px;
+}
+
+.row {
+    margin: auto;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+}
+
+ul#menu-main-menu {
+    text-align: center;
+    padding-left: 0px;
+}
+
+li#menu-item-29 {
+    padding-left: 0px;
+}
+
+body {
+    background: white;
+}
+
+.tc {
+    width: 100vw;
+    height: 36pc;
+}
+
+h2.decorTitle {
+    padding-left: 16%;
+    font-size: 53px;
+    font-family: montserrat, sans-serif;
+    width: 34%;
+    padding-top: 10%;
+    color: white;
+}
+
+p {
+    padding-left: 17%;
+    padding-top: 38px;
+    font-family: montserrat;
+    font-size: 15px;
+    color: white;
+}
+
+section.sectionBanner {
+    background: url(https://www.helpside.com/wp-content/uploads/2017/10/banner.jpg) no-repeat center center / cover;
+}
+
+
+}
+li {
+    list-style-type: none;
+    color: gray;
+    display: inline;
+    padding left: ;
+    padding-left: 31px;
+    font-family: montserrat;
+}
+.col-md-12 {
+    width: 70%;
+    margin: auto;
+    padding-top: 1%;
+}
+img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    padding-bottom: 13px;
+}
+.row {
+    margin: auto;
+}
+.container {
+    width: 100%;
+    margin: auto;
+}
+ul#menu-main-menu {
+    text-align: center;
+    padding-left: 0px;
+}
+li#menu-item-29 {
+    padding-left: 0px;
+}
+body {
+    background: white;
+}
+.tc {
+    width: 100vw;
+    height: 36pc;
+}
+h2.decorTitle {
+    padding-left: 16%;
+    font-size: 53px;
+    font-family: montserrat, sans-serif;
+    width: 34%;
+    padding-top: 10%;
+    color: white;
+}
+p {
+    padding-left: 17%;
+    padding-top: 38px;
+    font-size: 15px;
+    color: white;
+}
+section.sectionBanner {
+    background: url(https://www.helpside.com/wp-content/uploads/2017/10/banner.jpg) no-repeat center center / cover;
+}
+.btn {
+    border: 1px solid #fff;
+    color: #fff;
+    display: inline-block;
+    padding: 10px 60px 10px 30px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-radius: 30px;
+    line-height: 18px;
+    position: relative;
+    transition: all .25s;
+    outline: 0;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    margin-left: 17%;
+}
+li#menu-item-727>a {
+    color: #F36017;
+    font-weight: bold;
+}
+li#menu-item-731>a {
+    color: #0e5e9d;
+    font-weight: bold;
+}
+a {
+    color: gray;
+}
+.Arrow.button {
+    content: "";
+    background: url(https://www.helpside.com/wp-content/themes/helpside/img/link-arrow.svg) no-repeat;
+    width: 26px;
+    height: 26px;
+    position: absolute;
+    right: 6px;
+    top: 6px;
+}
+.panel {
+    position: relative;
+    background: #fff;
+    padding: 40px 100px;
+    border-radius: 0;
+    box-shadow: 10px 10px 145px rgba(0, 0, 0, .2);
+    z-index: 50;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    box-sizing: border-box;
+    width: 751px;
+    height: 395px;
+    margin-left: 39%;
+    margin-top: -7%;
+}
+.f-img {
+    background: url(https://www.helpside.com/wp-content/uploads/2017/10/home-intro.jpg) no-repeat center center / cover;
+    min-height: 480px;
+    max-width: 580px;
+    margin-top: -8%;
+    margin-left: 10%;
+}
+h2.decorTitle2 {
+    padding-left: 16%;
+    font-size: 40px;
+    font-family: montserrat,sans-serif;
+    width: 100%;
+    padding-top: 0%;
+    margin-top: 0%;
+    color: #07163d;
+    margin-left: -11%;
+}
+a.btn.btn-outline-orange {
+    border: 1px solid orange;
+    color: #07163d;
+    display: inline-block;
+    padding: 10px 60px 10px 30px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    border-radius: 30px;
+    line-height: 18px;
+    position: relative;
+    transition: all .25s;
+    outline: 0;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    margin-left: 4%;
+}
+.text2 > p {
+    color: black;
+    width: 100%;
+    margin: 0 0 30px;
+    margin-top: -4%;
+    line-height: 30px;
+    margin-left: -12%;
